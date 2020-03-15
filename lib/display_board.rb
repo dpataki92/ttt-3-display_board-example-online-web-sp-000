@@ -2,8 +2,12 @@
 row = "   |   |   "
 line = "-----------"
 
-puts row
-puts line
-puts row
-puts line
-puts row
+def display_board
+  puts row
+  puts line
+  puts row
+  puts line
+  puts row
+end
+
+display_board
