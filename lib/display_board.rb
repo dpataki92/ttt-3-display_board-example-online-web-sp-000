@@ -3,9 +3,9 @@ row = "   |   |   "
 line = "-----------"
 
 def display_board
-  puts row
-  puts line
-  puts row
-  puts line
-  puts row
+  print row
+  print line
+  print row
+  print line
+  print row
 end
